@@ -1,61 +1,66 @@
-LockedMe
+# LockedMe
 LockedMe - Virtual Key for Repositories
 
-Simple Java Console based program to allows user to input menu options for
+Simple Java Console based program to allows user to input menu options for 
 
-Displaying File/Folder structure.
-Search for File/Folder recursively.
-Add/Delete File/Folder recursively.
-View project locally
+* Displaying File/Folder structure. 
+* Search for File/Folder recursively.
+* Add/Delete File/Folder recursively.
+
+## View project locally
+
 To try out the project in your local machine:
 
-clone this repository using git clone
-Open the folder from Eclipse/IntelliJ
-Open LockedMeMain.java and Run
-Component Hierarchy
-File	Description
+* clone this repository using `git clone `
+* Open the folder from Eclipse/IntelliJ 
+* Open LockedMeMain.java and Run
 
-Specification document - Product's capabilities, appearance, and user interactions
 
-Java concepts being used in the project 
+To track below deliverables - 
 
-Data Structures where sorting and searching techniques are used. 
+    Specification document - Product's capabilities, appearance, and user interactions
 
-Generic features and operations available: 
+    Java concepts being used in the project 
 
-  1)  Retrieving the file names in an ascending order
+    Data Structures where sorting and searching techniques are used. 
 
-  2)  Business-level operations:
+    Generic features and operations available: 
 
-        Option to add a user specified file to the application
+      1)  Retrieving the file names in an ascending order
 
-        Option to delete a user specified file from the application
+      2)  Business-level operations:
 
-        Option to search a user specified file from the application
+            Option to add a user specified file to the application
 
-        Navigation option to close the current execution context and return to the main context
+            Option to delete a user specified file from the application
 
-  3)  Option to close the application
+            Option to search a user specified file from the application
+
+            Navigation option to close the current execution context and return to the main context
+
+      3)  Option to close the application
+
+
 Code designed to display the welcome screen. It displays:
 
-Application name and the developer details
+* Application name and the developer details 
 
-The details of the user interface such as options displaying the user interaction information
+* The details of the user interface such as options displaying the user interaction information 
 
-Features to accept the user input to select one of the options listed
+* Features to accept the user input to select one of the options listed 
 
-The first option returns the current file names in ascending order. The root directory can be either empty or contain few files or folders in it.
+* The first option returns the current file names in ascending order. The root directory can be either empty or contain few files or folders in it.
 
-The second option returns the details of the user interface such as options displaying the following:
+* The second option returns the details of the user interface such as options displaying the following:
 
-Add a file to the existing directory list
+    * Add a file to the existing directory list
 
-Delete a user specified file from the existing directory list
+    * Delete a user specified file from the existing directory list
 
-Search a user specified file from the main directory
+    * Search a user specified file from the main directory
 
-Option to navigate back to the main context
+    * Option to navigate back to the main context
 
-There is a third option to close the application.
+* There is a third option to close the application.
 
-Implemented the concepts such as exceptions, collections, and sorting techniques for source code optimization and increased performance
+Implemented the concepts such as exceptions, collections, and sorting techniques for source code optimization and increased performance 
